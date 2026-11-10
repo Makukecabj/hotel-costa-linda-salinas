@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotel-costa-linda-salinas.vercel.app/sitemap.xml
